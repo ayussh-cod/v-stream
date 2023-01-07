@@ -2,12 +2,13 @@
   "name": "jsmastery",
   "version": "0.1.0",
   "private": true,
- "dependencies": {
+  "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.9.3",
     "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-player": "^2.10.1",
